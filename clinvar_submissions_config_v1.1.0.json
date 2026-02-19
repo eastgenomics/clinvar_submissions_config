@@ -21,7 +21,8 @@
     "exclude": " AND panel != '_HGNC:7527' AND r_code NOT IN ('R444.1', 'R444.2')",
     "ref_genomes": [
         "GRCh37.p13",
-        "GRCh38.p13"
+        "GRCh38.p13",
+        "GRCh38.p14"
     ],
     "field_cells": [
         [
